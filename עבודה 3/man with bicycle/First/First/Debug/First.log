@@ -1,0 +1,5 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (First.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\הנדסת תוכנה\שנה ג\גרפיקה ממוחשבת\עבודות\עבודה 3\man with bicycle\first\first\main.cpp(150): error C3861: 'glvertex2d': identifier not found
+c:\הנדסת תוכנה\שנה ג\גרפיקה ממוחשבת\עבודות\עבודה 3\man with bicycle\first\first\main.cpp(151): error C3861: 'glvertex2d': identifier not found
+c:\הנדסת תוכנה\שנה ג\גרפיקה ממוחשבת\עבודות\עבודה 3\man with bicycle\first\first\main.cpp(157): error C3861: 'glvertex2d': identifier not found
